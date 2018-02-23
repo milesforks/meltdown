@@ -1,3 +1,5 @@
+# testing gpg signing
+
 #include "libkdump.h"
 #include <stdio.h>
 #include <stdlib.h>
